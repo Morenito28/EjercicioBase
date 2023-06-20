@@ -6,7 +6,7 @@ Se ha elaborado un código en Java para que el usuario pueda ingresar los datos 
 
 
 # Caso de uso
-![Caso de Uso](https://github.com/Morenito28/EjercicioBase/assets/136821010/c083b06e-69e1-44d5-a755-32e6344d531a)
+![Caso de Uso](https://github.com/Morenito28/EjercicioBase/assets/136821010/5b96c5e2-c88c-4c4b-9243-acd277f430b8)
 
 # Historia de usuario
 ![Historia de Usuario (1)](https://github.com/Morenito28/EjercicioBase/assets/136821010/588f37f3-cd7a-4fb5-9b80-67a32867246a)
