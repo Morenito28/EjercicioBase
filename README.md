@@ -9,7 +9,7 @@ Se ha elaborado un código en Java para que el usuario pueda ingresar los datos 
 ![Caso de Uso](https://github.com/Morenito28/EjercicioBase/assets/136821010/5b96c5e2-c88c-4c4b-9243-acd277f430b8)
 
 # Historia de usuario
-![image](https://github.com/Morenito28/EjercicioBase/assets/136821010/150c8cc5-ba57-4232-811e-a7e7cf9a6af1)
+![image](https://github.com/Morenito28/EjercicioBase/assets/136821010/0d29c365-93ef-44e1-ad58-deca5d6a799a)
 
 # DFD
 ![image](https://github.com/Morenito28/EjercicioBase/assets/136821010/67b5e27d-1112-41aa-8dd2-73a0b810781e)
