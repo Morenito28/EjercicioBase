@@ -12,11 +12,11 @@ Se ha elaborado un código en Java para que el usuario pueda ingresar los datos 
 ![image](https://github.com/Morenito28/EjercicioBase/assets/136821010/0d29c365-93ef-44e1-ad58-deca5d6a799a)
 
 # DFD
-![image](https://github.com/Morenito28/EjercicioBase/assets/136821010/67b5e27d-1112-41aa-8dd2-73a0b810781e)
-![image](https://github.com/Morenito28/EjercicioBase/assets/136821010/9e33dbb9-64a7-442d-b6bf-f144b7af2210)
-![image](https://github.com/Morenito28/EjercicioBase/assets/136821010/07f895a8-187c-46b1-831f-49f2285a32c4)
-![image](https://github.com/Morenito28/EjercicioBase/assets/136821010/52067f92-8380-4de4-b101-dbb304e58427)
-![image](https://github.com/Morenito28/EjercicioBase/assets/136821010/82408f38-dd41-426f-8d31-049bfaea11cb)
+![DFD (5)](https://github.com/Morenito28/EjercicioBase/assets/136821010/a8535949-a553-4900-8af3-108a5ab86aa7)
+![DFD (2)](https://github.com/Morenito28/EjercicioBase/assets/136821010/94e630ea-e685-4260-9eb2-d2143076cb5e)
+![DFD (3)](https://github.com/Morenito28/EjercicioBase/assets/136821010/60270bb3-ae9d-48ea-8391-9e3d70e60abe)
+![DFD (1)](https://github.com/Morenito28/EjercicioBase/assets/136821010/4b76edcc-a481-4865-88ed-ecf68b37942d)
+![DFD (4)](https://github.com/Morenito28/EjercicioBase/assets/136821010/cfff11e6-2226-4ac3-84b5-839107424a33)
 
 # Pseudocódigo
 Algoritmo Ventas
