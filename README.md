@@ -1,5 +1,5 @@
 # Problema planteado
-Un administrador de Steam necesita reportar un promedio de ventas totales en el día de 3 juegos determinados.
+En su labor como programador de software ha sido elegido para el desarrollo de un programa que necesita un administrador de Steam, para calcular el promedio de 3 (tres) juegos vendidos. Este programa solicita saber cuántas copias de alguno de los juegos se vendieron en un día. Como información básica de cada juego, se debe registrar su código, su nombre y su categoría.
 
 # Problema resuelto
 Se ha elaborado un código en Java para que el usuario pueda ingresar los datos necesarios de los juegos y se pueda determinar el promedio.
